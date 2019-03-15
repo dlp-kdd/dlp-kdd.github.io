@@ -1,1 +1,6 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-dinky 
+
+title: [DLP-KDD 2019]
+description: [1st Workshop on Deep Learning Practice for High-Dimensional Sparse Data with KDD 2019]
+
+show_downloads: True
