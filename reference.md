@@ -1,12 +1,13 @@
 ## Reference
+Here we provide a list of relevant workshop and papers.
 
 ### Other similar workshops:
 - [1]. [First International Workshop on Deep Matching in Practical Applications](https://wsdm2019-dapa.github.io/)
-- [2]. [2018 Workshop on ExplainAble Recommendation and Search](EARS 2018 https://ears2018.github.io/)
+- [2]. [2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/)
 - [3]. [2018 AdKDD & TargetAd](https://adkdd-targetad.wixsite.com/2018)
 - [4]. [NIPS 2018 workshop on Compact Deep Neural Networks with industrial applications](https://nips.cc/Conferences/2018/Schedule?showEvent=10941)
 - [5]. [The 2018 SIGIR Workshop On eCommerce](https://sigir-ecom.github.io/)
-- [6]. [Workshop on Deep Learning for Recommender Systems](DLRS 2018 http://dlrs-workshop.org/)
+- [6]. [Workshop on Deep Learning for Recommender Systems](http://dlrs-workshop.org/)
 - [7]. [2016 KDD Workshop on Large-scale Deep Learning for Data Mining](http://discovery.cs.wayne.edu/kdd_workshop/)
 
 ### Bibliography

@@ -3,6 +3,13 @@
 In the increasingly digitalized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from the Internet. For instance, in customer-centric applications such as personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data can not only significantly enhance user experiences but also greatly contribute to revenues. Recently, we have witnessed that Deep Learning-based approaches began to empower these internet- scale applications by better leveraging the massive data. However, the data in these internet-scale applications are high dimensional and extremely sparse, which makes it different from many applications with dense data such as image classification and speech recognition where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional sparse data.
 
 
+## Important Dates
+
+- Submission deadline: ***May 5, 2019***
+- Acceptance notification: June 1, 2019
+- Workshop date: August 5, 2019 (Dena’ina Convention Center and William Egan Convention Center, Anchorage, Alaska USA)
+
+
 ## Workshop Format and Schedule
 
 Half day. We would like to hold a half-day workshop in order to have enough new ground to cover invited academic and industry talks with a focus on many deep learning related areas. The tentative program schedule includes the following components:
