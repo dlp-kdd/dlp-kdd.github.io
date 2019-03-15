@@ -39,7 +39,9 @@ Topics include but are not limited to deep learning based network architecture d
 The purpose of the workshop is to provide a venue for discussions of critical research problems and practical challenges in applying Deep Learning on high-dimensional sparse data. Presenting novel and practical ideas, proposing open problems, defining application-specific challenges for bridging the gap between research and practice are strongly encouraged. Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers, demos and visionary papers are also encouraged.
 
 Submissions are limited to a total of 9 (nine) pages, including all content and references, and must be in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
+
 All submissions can be made through EasyChair.
+
 
 ## Workshop Chairs
 - Xiaoqiang Zhu (Tech Lead of advertising group, Alibaba)
@@ -52,3 +54,7 @@ All submissions can be made through EasyChair.
 - Hongbo Deng (Tech Lead of search engine group, Alibaba)
 - Weinan Zhang (Assistant Professor of Shanghai Jiao Tong University) 
 - John F. Canny (Professor of UC Berkeley)
+
+
+## Sponsor ##
+<img src="assets/img/alibaba.png" width="400px"/>
