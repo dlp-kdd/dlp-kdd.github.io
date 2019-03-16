@@ -40,7 +40,7 @@ The purpose of the workshop is to provide a venue for discussions of critical re
 
 Submissions are limited to a total of 9 (nine) pages, including all content and references, and must be in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-All submissions can be made through EasyChair.
+All submissions can be made through EasyChair. (Link coming soon)
 
 
 ## Workshop Chairs
