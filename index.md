@@ -1,5 +1,3 @@
-<img src="assets/img/alaska.jpeg" width="800px"/>
-*Alaska, Photo credit to Rod Long*
 
 ## Introduction
 
