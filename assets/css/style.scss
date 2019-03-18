@@ -17,3 +17,14 @@ a.button span { display: block; height: 23px; padding-left: 10px; }
 a.b {display: block; float: left; width: 100px;font-size: 20px; font-weight: bold;}
 
 a.buttons2 { -webkit-font-smoothing: antialiased;   font-weight: normal; text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0; padding: 2px 2px 2px 22px; height: 30px; }
+
+
+header { 
+    background: url(../img/Glacier.jpg) 0 0 no-repeat; 
+}
+
+.hi { height: 270px; padding-left: 10px}
+
+header img {     
+    position: absolute; top: -30px; right: -220px;
+}
