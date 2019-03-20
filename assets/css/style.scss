@@ -28,3 +28,16 @@ header {
 header img {     
     position: absolute; top: -30px; right: -220px;
 }
+
+.mobile_show{
+    display:none
+}
+
+@media only screen and (max-width: 767px) { .inner { width: 93%; }
+    header { 
+        background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+    }
+    .mobile_show{
+        display:block
+    }
+}
