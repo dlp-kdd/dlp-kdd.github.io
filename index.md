@@ -43,6 +43,7 @@ Submissions are limited to a total of 9 (nine) pages, including all content and 
 
 All submissions can be made through EasyChair: [https://easychair.org/conferences/?conf=dlpkdd2019](https://easychair.org/conferences/?conf=dlpkdd2019)
 
+If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@easychair.org*](mailto:dlpkdd2019@easychair.org)
 
 ## Workshop Chairs
 - Xiaoqiang Zhu (Tech Lead of advertising group, Alibaba)
