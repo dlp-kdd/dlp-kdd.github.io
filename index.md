@@ -37,26 +37,92 @@ Topics include but are not limited to deep learning based network architecture d
 - Other challenges encountered in real-world applications
 
 ## Call for papers
-The purpose of the workshop is to provide a venue for discussions of critical research problems and practical challenges in applying Deep Learning on high-dimensional sparse data. Presenting novel and practical ideas, proposing open problems, defining application-specific challenges for bridging the gap between research and practice are strongly encouraged. Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers, demos and visionary papers are also encouraged.
+Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
 
-Submissions are limited to a total of 9 (nine) pages, including all content and references, and must be in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
+Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template). 
 
-All submissions can be made through EasyChair: [https://easychair.org/conferences/?conf=dlpkdd2019](https://easychair.org/conferences/?conf=dlpkdd2019)
+Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@easychair.org*](mailto:dlpkdd2019@easychair.org)
+All submissions can be made through EasyChair using the following link: [https://easychair.org/conferences/?conf=dlpkdd2019](https://easychair.org/conferences/?conf=dlpkdd2019)
+
+If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@gmail.com*](mailto:dlpkdd2019@gmail.com)
 
 ## Workshop Chairs
-- Xiaoqiang Zhu (Tech Lead of advertising group, Alibaba)
-- Kuang-chih Lee (Tech Lead of business intelligence group, AliExpress) 
-- Jian Xu (Tech Lead of advertising group, Alibaba)
-- Guorui Zhou (Algorithm expert of advertising group, Alibaba)
-- Biye Jiang (Algorithm expert of advertising group, Alibaba)
-- Jun Lang (Tech Lead of data science group, Lazada)
-- Wenwu Ou (Tech Lead of recommendation system group, Alibaba) 
-- Hongbo Deng (Tech Lead of search engine group, Alibaba)
-- Weinan Zhang (Assistant Professor of Shanghai Jiao Tong University) 
-- John F. Canny (Professor of UC Berkeley)
 
+  <div class="photo">
+  <img src="assets/img/zxq.jpeg">
+  <div >Xiaoqiang Zhu</div>
+  <div>Tech Lead of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+
+  <div class="photo">
+  <img src="assets/img/lkc.jpeg">
+  <div >Kuang-chih Lee</div>
+  <div>Tech Lead of business intelligence group, AliExpress</div>
+  </div>
+
+  <div class="photo">
+  <img src="assets/img/xj.jpeg">
+  <div >Jian Xu</div>
+  <div>Tech Lead of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+
+
+  <div class="photo">
+  <img src="assets/img/zgr.jpeg">
+  <div >Guorui Zhou</div>
+  <div>Algorithm expert of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+  
+  <div class="photo">
+  <img src="assets/img/jby.jpeg">
+  <div >Biye Jiang</div>
+  <div>Algorithm expert of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+   
+  <div class="photo">
+  <img src="assets/img/lj.jpeg">
+  <div >Jun Lang</div>
+  <div>Tech Lead of data science group</div>
+  <div>Lazada</div>
+  </div>
+
+
+  <div class="photo">
+  <img src="assets/img/oww.jpeg">
+  <div >Wenwu Ou</div>
+  <div>Tech Lead of recommendation system group, Alibaba</div>
+  </div>
+
+
+  <div class="photo">
+  <img src="assets/img/dhb.jpeg">
+  <div >Hongbo Deng</div>
+  <div>Tech Lead of search engine group</div>
+  <div>Alibaba</div>
+  </div>
+
+
+  <div class="photo">
+  <img src="assets/img/zwn.png">
+  <div >Weinan Zhang</div>
+  <div>Assistant Professor</div>
+  <div>Shanghai Jiao Tong University</div>
+  </div>
+
+
+  <div class="photo">
+  <img src="assets/img/jc.png">
+  <div >John F. Canny </div>
+  <div>Professor</div>
+  <div>UC Berkeley</div>
+  </div>
+
+  <img src="assets/img/bg.png">  
 
 ## Sponsor ##
 <img src="assets/img/alibaba.png" width="400px"/>

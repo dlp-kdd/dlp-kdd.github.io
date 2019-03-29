@@ -21,6 +21,7 @@ a.buttons2 { -webkit-font-smoothing: antialiased;   font-weight: normal; text-sh
 
 header { 
     background: url(../img/Glacier.jpg) 0 0 no-repeat; 
+    background-size: auto;
 }
 
 .hi { height: 270px; padding-left: 10px}
@@ -37,6 +38,25 @@ header img {
     display:block
 }
 
+
+.photo{
+    width:33%;
+    height:280px;
+    float:left;
+    text-align:center;
+    font-size:13px
+
+}
+
+.photo img {height: 180px}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) { 
+    .photo img{
+        height:150px
+    }
+    .photo {font-size: 11px;height:220px}
+}
+
 @media only screen and (max-width: 767px) { .inner { width: 93%; }
     header { 
         background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
@@ -50,4 +70,9 @@ header img {
     header img {     
         display:none;
     }
+    .photo {font-size: 10px;height:200px}
+    .photo img{
+        height:120px
+    }
 }
+
