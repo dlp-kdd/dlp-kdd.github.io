@@ -1,3 +1,6 @@
+__CFP:  [https://easychair.org/cfp/DLP-KDD2019](https://easychair.org/cfp/DLP-KDD2019)__
+
+__Submission deadline: May 5, 2019__  
 
 ## Introduction
 
