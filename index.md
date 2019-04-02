@@ -1,6 +1,10 @@
+
+
+### Important notice
+
 __CFP:  [https://easychair.org/cfp/DLP-KDD2019](https://easychair.org/cfp/DLP-KDD2019)__
 
-__Submission deadline: May 5, 2019__  
+<b><font size="3" color="red" > Submission deadline: May 5, 2019 </font></b>
 
 ## Introduction
 
