@@ -4,7 +4,7 @@
 
 __CFP:  [https://easychair.org/cfp/DLP-KDD2019](https://easychair.org/cfp/DLP-KDD2019)__
 
-<b><font size="3" color="red" > Submission deadline: May 5, 2019 </font></b>
+<b><font size="3" color="red" > Submission deadline: May 14, 2019 </font></b>
 
 ## Introduction
 
@@ -13,7 +13,7 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 
 ## Important Dates
 
-- Submission deadline: ***May 5, 2019***
+- Submission deadline: ***May 14, 2019***
 - Acceptance notification: June 1, 2019
 - Workshop date: August 5, 2019 (Dena’ina Convention Center and William Egan Convention Center, Anchorage, Alaska USA)
 
