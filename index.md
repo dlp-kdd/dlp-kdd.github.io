@@ -131,7 +131,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
   <img src="assets/img/bg.png">  
 
-## Program Committee##
+
+## Program Committee
+
 - Zhijun Yin, Facebook
 - Rui Li, JD.com
 - Ruiming Tang, Noah’s Ark Lab, Huawei
@@ -142,5 +144,5 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Xipeng Qiu, Fudan University
 - Qi Zhang, Fudan University
 
-## Sponsor ##
+## Sponsor
 <img src="assets/img/alibaba.png" width="400px"/>
