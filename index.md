@@ -143,6 +143,8 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Min Zhang, Tsinghua University
 - Xipeng Qiu, Fudan University
 - Qi Zhang, Fudan University
+- Yin Lou, Ant Finance
+- Dheevatsa Mudigere, Facebook
 
 ## Sponsor
 <img src="assets/img/alibaba.png" width="400px"/>
