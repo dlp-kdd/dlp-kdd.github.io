@@ -145,6 +145,19 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Qi Zhang, Fudan University
 - Yin Lou, Ant Finance
 - Dheevatsa Mudigere, Facebook
+- Mou Na, Alibaba
+- Xiang Li, Alibaba
+- Bibek Behera, IIT Bombay
+- Han Zhu, Alibaba
+- Jiwei Tan, Peking University
+- Di Wu, Alibaba
+- Junwei Pan, Yahoo
+- Na Ma, Taobao
+- Fei Sun, Alibaba
+- Junqi Jin, Alibaba
+- Xiaofeng Yang, Alibaba
+- Chen Xu, Peking University
+- Tao Zhuang, Alibaba
 
 ## Sponsor
 <img src="assets/img/alibaba.png" width="400px"/>
