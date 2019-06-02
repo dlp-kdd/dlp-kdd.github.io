@@ -14,7 +14,7 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 ## Important Dates
 
 - Submission deadline: ***May 14, 2019***
-- Acceptance notification: June 1, 2019
+- Acceptance notification: ~~June 1, 2019~~ By June 3 PDT due to the weekend.
 - Workshop date: August 5, 2019 (Dena’ina Convention Center and William Egan Convention Center, Anchorage, Alaska USA)
 
 
