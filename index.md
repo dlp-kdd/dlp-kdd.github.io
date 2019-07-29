@@ -2,9 +2,7 @@
 
 ### Important notice
 
-__CFP:  [https://easychair.org/cfp/DLP-KDD2019](https://easychair.org/cfp/DLP-KDD2019)__
-
-<b><font size="3" color="red" > Submission deadline: May 14, 2019 </font></b>
+**Time & Location** : 1pm - 5pm August 5th, Summit 2 - Ground Level, William Egan Convention Center
 
 ## Introduction
 
