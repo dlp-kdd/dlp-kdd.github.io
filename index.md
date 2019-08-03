@@ -159,10 +159,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Professor</div>
   <div>UC Berkeley</div>
   </div>
-  <br>
-
   <img src="assets/img/bg.png">  
-  <br>
 
 ## Program Committee
 
