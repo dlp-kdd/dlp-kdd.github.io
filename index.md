@@ -168,15 +168,15 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 - Zhijun Yin, Facebook
 - Rui Li, JD.com
-- Ruiming Tang, Noah’s Ark Lab, Huawei
-- Mingsheng Long, Tsinghua University
+- [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en), Noah’s Ark Lab, Huawei
+- [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/), Tsinghua University
 - Zhen Qin, Google
 - Zhe Wang, Hulu
-- Min Zhang, Tsinghua University
-- Xipeng Qiu, Fudan University
-- Qi Zhang, Fudan University
+- [Min Zhang](http://www.thuir.cn/group/~mzhang/), Tsinghua University
+- [Xipeng Qiu](https://xpqiu.github.io/en.html), Fudan University
+- [Qi Zhang](http://jkx.fudan.edu.cn/), Fudan University
 - Yin Lou, Ant Finance
-- Dheevatsa Mudigere, Facebook
+- [Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home), Facebook
 - Mou Na, Alibaba
 - Xiang Li, Alibaba
 - Bibek Behera, IIT Bombay
@@ -186,10 +186,11 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Junwei Pan, Yahoo
 - Na Ma, Taobao
 - Fei Sun, Alibaba
-- Junqi Jin, Alibaba
+- [Junqi Jin](https://scholar.google.com/citations?user=cAuxh7UAAAAJ&hl=en), Alibaba
 - Xiaofeng Yang, Alibaba
 - Chen Xu, Peking University
 - Tao Zhuang, Alibaba
+- [Qingyao Ai](http://ir.aiqingyao.org/home), University of Massachusetts Amherst
 
 ## Sponsor
 <img src="assets/img/alibaba.png" width="400px"/>
