@@ -4,6 +4,25 @@
 
 **Time & Location** : 1pm - 5pm August 5th, Summit 2 - Ground Level, William Egan Convention Center
 
+## Schedule
+
+**Time** | **Event**|	**Title**
+13:00-13:40 |**Keynote #1**	|**Quan Yu (Ant Financial)** <br> *Deep Learning in Ant Credit Pay Fraud Detection*
+13:40-13:50	||**Opening intro & Best paper announcement**
+13:50-14:05	|Oral talk #1	|Learning over Categorical Data using Counting Features
+14:05-14:20	|Oral talk #2	|Attention-based Mixture Density Recurrent Networks <br> for History-based Recommendation
+14:20-14:30	||Poster Spotlight talk * 8 (1min each)
+14:30-15:00	||Coffee break & Poster session
+15:00-15:40	|**Keynote #2**	|**[Peng Cui](http://pengcui.thumedialab.com/) (Tsinghua University)** <br> *Towards Explainable and Stable Prediction*
+15:40-15:55	|Oral talk #3	|XDL: An Industrial Deep Learning Framework for High-dimensional Sparse Data
+15:55-16:10	|Oral talk #4	|Automatic Feature Engineering From Very High Dimensional Event Logs Using Deep Neural Networks
+16:10-16:25	|Oral talk #5	|An End-to-End Neighborhood-based Interaction Model <br>for Knowledge-enhanced Recommendation
+16:25-16:40	|Oral talk #6	|AMAD: Adversarial Multiscale Anomaly Detection <br> on High Dimensional and Time-Evolving Categorical Data
+16:40-16:55	|Oral talk #7	|Learning Job Representation Using Directed Graph Embedding
+16:55-17:00	||Ending
+
+
+
 ## Introduction
 
 In the increasingly digitalized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from the Internet. For instance, in customer-centric applications such as personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data can not only significantly enhance user experiences but also greatly contribute to revenues. Recently, we have witnessed that Deep Learning-based approaches began to empower these internet- scale applications by better leveraging the massive data. However, the data in these internet-scale applications are high dimensional and extremely sparse, which makes it different from many applications with dense data such as image classification and speech recognition where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional sparse data.
@@ -55,15 +74,19 @@ If you have any questions about submissions or our workshop, please contact [*dl
 ## Workshop Chairs
 
   <div class="photo">
-  <img src="assets/img/zxq.jpeg">
-  <div >Xiaoqiang Zhu</div>
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
+  <img src="assets/img/zxq.jpeg" class="shake shake-little">
+  </a><br>
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
   <div>Alibaba</div>
   </div>
 
   <div class="photo">
-  <img src="assets/img/lkc.jpeg">
-  <div >Kuang-chih Lee</div>
+  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&hl=en">
+  <img src="assets/img/lkc.jpeg" class="shake shake-little">
+  </a><br>
+   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&hl=en">Kuang-chih Lee</a>
   <div>Tech Lead of business intelligence group, AliExpress</div>
   </div>
 
@@ -76,15 +99,19 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 
   <div class="photo">
-  <img src="assets/img/zgr.jpeg">
-  <div >Guorui Zhou</div>
+  <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&hl=en">
+  <img src="assets/img/zgr.jpeg" class="shake shake-little">
+  </a><br>
+<a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&hl=en">Guorui Zhou</a>
   <div>Algorithm expert of advertising group</div>
   <div>Alibaba</div>
   </div>
   
   <div class="photo">
-  <img src="assets/img/jby.jpeg">
-  <div >Biye Jiang</div>
+  <a href="http://byeah.github.io" >
+  <img src="assets/img/jby.jpeg" class="shake shake-little">
+  </a><br>
+  <a href="http://byeah.github.io">Biye Jiang</a>
   <div>Algorithm expert of advertising group</div>
   <div>Alibaba</div>
   </div>
@@ -113,16 +140,20 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 
   <div class="photo">
-  <img src="assets/img/zwn.png">
-  <div >Weinan Zhang</div>
+  <a href="http://wnzhang.net">
+    <img src="assets/img/zwn.png" class="shake shake-little">
+  </a><br>
+  <a href="http://wnzhang.net">Weinan Zhang</a>
   <div>Assistant Professor</div>
   <div>Shanghai Jiao Tong University</div>
   </div>
 
 
   <div class="photo">
-  <img src="assets/img/jc.png">
-  <div >John F. Canny </div>
+  <a href="https://people.eecs.berkeley.edu/~jfc/">
+  <img src="assets/img/jc.png" class="shake shake-little">
+   </a><br>
+  <a href="https://people.eecs.berkeley.edu/~jfc/">John F. Canny </a>
   <div>Professor</div>
   <div>UC Berkeley</div>
   </div>
