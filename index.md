@@ -4,6 +4,8 @@
 
 **Time & Location** : 1pm - 5pm August 5th, Summit 2 - Ground Level, William Egan Convention Center
 
+**Use [this form](https://forms.gle/4yFDRz8RvjgyRVxX8) to <b style="color:red">give us some feedback! Thanks </b>**
+
 ## Schedule
 
 **Time** | **Event**|	**Title**
