@@ -14,7 +14,7 @@
 
 **[AMAD: Adversarial Multiscale Anomaly Detection onHigh-Dimensional and Time-Evolving Categorical Data](assets/pdf/a7-gao.pdf)**	Zheng Gao, Lin Guo, Chi Ma, Xiao Ma, Kai Sun, Hang Xiang, Xiaoqiang Zhu, Hongsong Li and Xiaozhong Liu
 
-**[An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation](assets/pdf/a8-qu.pdf)**	Yanru Qu, Ting Bai, Weinan Zhang, Jianyun Nie and Jian Tang
+<b style="color:red">(Best Paper Award) </b> **[An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation](assets/pdf/a8-qu.pdf)**	Yanru Qu, Ting Bai, Weinan Zhang, Jianyun Nie and Jian Tang
 
 **[Click-Through Rate Prediction with the User Memory Network](assets/pdf/a9-ouyang.pdf)**	Wentao Ouyang, Xiuwu Zhang, Shukui Ren, Li Li, Zhaojie Liu and Yanlong Du
 

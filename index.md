@@ -15,10 +15,10 @@
 14:05-14:20	|Oral talk #2	|[Attention-based Mixture Density Recurrent Networks <br> for History-based Recommendation](assets/pdf/a5-wang.pdf)
 14:20-14:30	||Poster Spotlight talk * 8 (1min each)
 14:30-15:00	||Coffee break & Poster session
-15:00-15:40	|**Keynote #2**	|**[Peng Cui](http://pengcui.thumedialab.com/) (Tsinghua University)** <br> *Towards Explainable and Stable Prediction*
+15:00-15:40	|**Keynote #2**	|**[Peng Cui](http://pengcui.thumedialab.com/) (Tsinghua University)** <br> *[Towards Explainable and Stable Prediction](http://pengcui.thumedialab.com/papers/Explainable%20and%20Stable%20Prediction_Peng.pdf)*
 15:40-15:55	|Oral talk #3	|[XDL: An Industrial Deep Learning Framework for High-dimensional Sparse Data](assets/pdf/a6-jiang.pdf)
 15:55-16:10	|Oral talk #4	|[Automatic Feature Engineering From Very High Dimensional Event Logs Using Deep Neural Networks](assets/pdf/a13-hu.pdf)
-16:10-16:25	|Oral talk #5	|[An End-to-End Neighborhood-based Interaction Model <br>for Knowledge-enhanced Recommendation](assets/pdf/a8-qu.pdf)
+16:10-16:25	|Oral talk #5	|<b style="color:red">(Best Paper Award) </b>[An End-to-End Neighborhood-based Interaction Model <br>for Knowledge-enhanced Recommendation](assets/pdf/a8-qu.pdf)
 16:25-16:40	|Oral talk #6	|[AMAD: Adversarial Multiscale Anomaly Detection <br> on High Dimensional and Time-Evolving Categorical Data](assets/pdf/a7-gao.pdf)
 16:40-16:55	|Oral talk #7	|[Learning Job Representation Using Directed Graph Embedding](assets/pdf/a14-luo.pdf)
 16:55-17:00	||Ending
