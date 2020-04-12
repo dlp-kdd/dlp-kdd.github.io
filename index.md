@@ -1,6 +1,6 @@
 <br>
 
-**Website for dlp-kdd2019 can be found [here](https://dlp-kdd.github.io/dlp-kdd2019)**
+Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
 
 ## Introduction
 
@@ -88,6 +88,74 @@ If you have any questions about submissions or our workshop, please contact [*dl
   </div>
 
   <div class="photo">
+  <a href="https://www.cs.cmu.edu/~lxiong/">
+    <img src="assets/img/xl.jpg" class="shake shake-little">
+  </a><br>
+  <a href="https://www.cs.cmu.edu/~lxiong/">Liang Xiong</a>
+  <div>Facebook AI Applied Research</div>
+  </div>
+
+<div class="photo">
+  <img src="assets/img/zjl.jpg">
+  <div>Junlin Zhang</div>
+  <div>Tech Lead</div>
+  <div>Artificial Intelligence Laboratory, Sina Weibo</div>
+  </div>
+
+  <div class="photo">
+  <a href="http://wzhe.me/">
+    <img src="assets/img/wz.png" class="shake shake-little">
+  </a><br>
+  <a href="http://wzhe.me/">Zhe Wang</a>
+  <div>Tech Lead</div>
+  <div>Recommendation group, Roku</div>
+  </div>
+
+  <div class="photo">
+  <a href="http://www.zheng-wen.com/">
+    <img src="assets/img/wenz.jpg" class="shake shake-little">
+  </a><br>
+  <a href="http://www.zheng-wen.com/">Zheng Wen</a>
+  <div>Research Scientist</div>
+  <div>DeepMind</div>
+  </div>
+
+  <div class="photo">
+  <img src="assets/img/logo.png">
+  <div>Haishan Liu</div>
+  <div>Director of Engineering</div>
+  <div>Tencent</div>
+  </div>
+
+
+  <div class="photo">
+  <a href="http://www.saying.ren/">
+    <img src="assets/img/rk.jpg" class="shake shake-little">
+  </a><br>
+  <a href="http://www.saying.ren/">Kan Ren</a>
+  <div>Microsoft Research</div>
+  </div>
+
+
+  <div class="photo">
+  <a href="http://ir.aiqingyao.org/home">
+    <img src="assets/img/aqy.jpg" class="shake shake-little">
+  </a><br>
+  <a href="http://ir.aiqingyao.org/home">Qingyao Ai</a>
+  <div>Assistant Professor</div>
+  <div>University of Utah</div>
+  </div>
+
+  <div class="photo">
+  <a href="https://www.cs.utah.edu/~zhe/">
+    <img src="assets/img/sdz.jpg" class="shake shake-little">
+  </a><br>
+  <a href="https://www.cs.utah.edu/~zhe/">Shandian Zhe</a>
+  <div>Assistant Professor</div>
+  <div>University of Utah</div>
+  </div>
+
+  <div class="photo">
   <a href="http://wnzhang.net">
     <img src="assets/img/zwn.png" class="shake shake-little">
   </a><br>
@@ -124,7 +192,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Xiaofeng Yang, Alibaba
 - Chen Xu, Peking University
 - Tao Zhuang, Alibaba
-- [Qingyao Ai](http://ir.aiqingyao.org/home), University of Massachusetts Amherst
 
 ## Sponsor
 <img src="assets/img/alibaba.png" width="400px"/>
