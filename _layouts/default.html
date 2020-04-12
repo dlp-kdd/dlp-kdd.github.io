@@ -53,12 +53,11 @@
     <header>
       <div class="inner hi">
           {% if true %}
-        <a href="{{ '/' | absolute_url }}" class="mobile_show">
+        <a href="{{ '/' | absolute_url }}" >
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2 class="mobile_show">{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2 >{{ site.description | default: site.github.project_tagline }}</h2>
         {% endif %}
-        <img src=assets/img/logo.png width="100px">
         {% if false %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
@@ -68,15 +67,11 @@
         <a href="/index.html" class="button mobile_show">
           Home
         </a>
-        <a href="/accept.html" class="button mobile_show">
-          Accepted Papers
-        </a>
         <a href="/reference.html" class="button mobile_show">
           Referernce
         </a>
       </div>
     </header>
-    <div id="image-credit-Glenn-Aronwits" class="mobile_no_show" style="padding-left:50px">Image credit: <a href="http://http://ga-digitalphotos.com">Glenn-Aronwits</a></div>
           
     <div id="content-wrapper">
         
@@ -90,9 +85,6 @@
           {% if site.show_downloads %}
             <a href="/index.html" class="button">
               Home
-            </a>
-            <a href="/accept.html" class="button">
-              Accepted Papers
             </a>
             <a href="/reference.html" class="button">
               Referernce
