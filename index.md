@@ -173,7 +173,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en), Noah’s Ark Lab, Huawei
 - [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/), Tsinghua University
 - Zhen Qin, Google
-- Zhe Wang, Hulu
 - [Min Zhang](http://www.thuir.cn/group/~mzhang/), Tsinghua University
 - [Xipeng Qiu](https://xpqiu.github.io/en.html), Fudan University
 - [Qi Zhang](http://jkx.fudan.edu.cn/), Fudan University
