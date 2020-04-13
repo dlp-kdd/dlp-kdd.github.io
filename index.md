@@ -46,7 +46,7 @@ Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome
 
 Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-All submissions can be made through EasyChair using the following link (Coming soon!)
+All submissions can be made through EasyChair using the following link: https://easychair.org/conferences/?conf=dlpkdd2020
 
 If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@gmail.com*](mailto:dlpkdd2019@gmail.com)
 
