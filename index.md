@@ -121,7 +121,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   </div>
 
   <div class="photo">
-  <img src="assets/img/logo.png">
+  <img src="assets/img/lhs.jpg">
   <div>Haishan Liu</div>
   <div>Director of Engineering</div>
   <div>Tencent</div>
