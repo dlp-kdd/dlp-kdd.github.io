@@ -104,7 +104,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
   <div class="photo">
   <a href="http://wzhe.me/">
-    <img src="assets/img/wz.png" class="shake shake-little">
+    <img src="assets/img/wz.jpg" class="shake shake-little">
   </a><br>
   <a href="http://wzhe.me/">Zhe Wang</a>
   <div>Tech Lead</div>
