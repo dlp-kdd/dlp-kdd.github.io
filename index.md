@@ -42,13 +42,16 @@ Topics include but are not limited to deep learning based network architecture d
 ## Call for papers
 Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
 
-Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template). 
+Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
 
 Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-All submissions can be made through EasyChair using the following link: https://easychair.org/conferences/?conf=dlpkdd2020
+All submissions can be made through EasyChair using the following link: [https://easychair.org/conferences/?conf=dlpkdd2020](https://easychair.org/conferences/?conf=dlpkdd2020)
 
-If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@gmail.com*](mailto:dlpkddworkshop@gmail.com)
+For all the accepted paper, we provide the option that it **could be archived in ACM Digtal Library**. You may see the publication of last year at [https://dl.acm.org/doi/proceedings/10.1145/3326937](https://dl.acm.org/doi/proceedings/10.1145/3326937)
+
+
+If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
 
@@ -193,4 +196,3 @@ If you have any questions about submissions or our workshop, please contact [*dl
 - Tao Zhuang, Alibaba
 
 ## Sponsor
-<img src="assets/img/alibaba.png" width="400px"/>
