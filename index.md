@@ -48,7 +48,7 @@ Reviews are not double-blind, and author names and affiliations should be listed
 
 All submissions can be made through EasyChair using the following link: https://easychair.org/conferences/?conf=dlpkdd2020
 
-If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@gmail.com*](mailto:dlpkdd2019@gmail.com)
+If you have any questions about submissions or our workshop, please contact [*dlpkdd2019@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
 
