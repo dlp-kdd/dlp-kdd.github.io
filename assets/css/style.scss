@@ -13,6 +13,8 @@ a.button:hover { background: #fafafa; /* Old browsers */ background: -moz-linear
 
 a.button span { display: block; height: 23px; padding-left: 10px; }
 
+aside a.button { display: block; width: 138px; padding-left: 64px; margin-bottom: 20px; font-size: 21px; background: transparent url(../img/download-button.png) 0 0 no-repeat; }
+
 
 a.b {display: block; float: left; width: 100px;font-size: 20px; font-weight: bold;}
 
@@ -20,11 +22,11 @@ a.buttons2 { -webkit-font-smoothing: antialiased;   font-weight: normal; text-sh
 
 
 header { 
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; 
+  background: url(../img/banner.jpg) 0 0 no-repeat; 
   background-size: auto;
 }
 
-.hi { height: 270px; padding-left: 10px}
+.hi { height: 350px; padding-left: 10px}
 
 header img {     
     position: absolute; top: -30px; right: -220px;

@@ -40,6 +40,9 @@ Topics include but are not limited to deep learning based network architecture d
 - Other challenges encountered in real-world applications
 
 ## Call for papers
+
+Official call for papers page is on [https://easychair.org/cfp/dlp-kdd2020](https://easychair.org/cfp/dlp-kdd2020)
+
 Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
 
 Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
@@ -170,29 +173,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <img src="assets/img/bg.png">  
 
 ## Program Committee
-
-- Zhijun Yin, Facebook
-- Rui Li, JD.com
-- [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en), Noah’s Ark Lab, Huawei
-- [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/), Tsinghua University
-- Zhen Qin, Google
-- [Min Zhang](http://www.thuir.cn/group/~mzhang/), Tsinghua University
-- [Xipeng Qiu](https://xpqiu.github.io/en.html), Fudan University
-- [Qi Zhang](http://jkx.fudan.edu.cn/), Fudan University
-- Yin Lou, Ant Finance
-- [Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home), Facebook
-- Mou Na, Alibaba
-- Xiang Li, Alibaba
-- Bibek Behera, IIT Bombay
-- Han Zhu, Alibaba
-- Jiwei Tan, Peking University
-- Di Wu, Alibaba
-- Junwei Pan, Yahoo
-- Na Ma, Taobao
-- Fei Sun, Alibaba
-- [Junqi Jin](https://scholar.google.com/citations?user=cAuxh7UAAAAJ&hl=en), Alibaba
-- Xiaofeng Yang, Alibaba
-- Chen Xu, Peking University
-- Tao Zhuang, Alibaba
+Coming soon.
 
 ## Sponsor
