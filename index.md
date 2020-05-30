@@ -176,3 +176,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
 Coming soon.
 
 ## Sponsor
+<a href="http://www.polixir.ai/">
+<img src="assets/img/nxxc_logo.png" width="400px"/>
+</a>
