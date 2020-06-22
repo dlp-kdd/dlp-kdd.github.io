@@ -10,7 +10,7 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 ## Important Dates
 
 - Submission deadline: ~~May 20, 2020~~ ~~June 10, 2020~~  June 14, 2020 23:59 anywhere on earth (We extended the deadline due to current COVID-19 situation)
-- Acceptance notification: June 15, 2020.
+- Acceptance notification: ~~June 15, 2020~~ July 12, 2020.
 - Workshop date: August 24, 2020 (San Diego Convention Center, San Diego, California USA)
 
 
