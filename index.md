@@ -2,6 +2,27 @@
 
 Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
 
+## Tentative Schedule
+
+**Time** | **Event**|	**Title**
+08:00-08:45 |**Keynote #1**	|**[Ji Liu](http://jiliu-ml.org/) (Kwai Inc.)** <br> *Hammer! A uniform model compression and NAS framework*
+08:45-08:55	||**Opening intro & Best paper announcement**
+08:55-09:10	|Oral talk #1	|Learning-To-Rank with Context-Aware Position Debiasing
+09:10-09:25	|Oral talk #2	|[DCAF: A Dynamic Computation Allocation Framework for Online Serving System](assets/pdf/a12-jiang.pdf)
+09:25-09:40	|Oral talk #3	|[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)
+09:40-10:10	||Coffee break & Poster session
+10:10-10:55	|**Keynote #2**	|**[Jingbo Shang](https://shangjingbo1226.github.io/) (University of California, San Diego)** <br> *Named Entity Recognition from a Data-Driven Perspective*
+10:55-11:10	|Oral talk #4	|[Automated Model Selection for Time-Series Anomaly Detection](assets/pdf/a17-ying.pdf)
+11:10-11:25	|Oral talk #5	|[Correct Normalization Matters: Understanding the Effect of Normalization On Deep Neural Network Models For Click-Through Rate Prediction](assets/pdf/a14-wang.pdf)
+11:25-11:40	|Oral talk #6	|[Selling Products by Machine: a User-Sensitive Adversarial Training method for Short Title Generation in Mobile E-Commerce](assets/pdf/a1-wang.pdf)
+11:40-11:55	|Oral talk #7	|[PinText 2: Attentive Bag of Annotations Embedding](assets/pdf/a15-zhuang.pdf)
+11:55-12:00	||Ending
+
+<br>
+
+**All the <b style="color:red">accepted papers </b> can be found [here](/accept.html)**
+
+
 ## Introduction
 
 In the increasingly digitalized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from the Internet. For instance, in customer-centric applications such as personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data can not only significantly enhance user experiences but also greatly contribute to revenues. Recently, we have witnessed that Deep Learning-based approaches began to empower these internet- scale applications by better leveraging the massive data. However, the data in these internet-scale applications are high dimensional and extremely sparse, which makes it different from many applications with dense data such as image classification and speech recognition where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional sparse data.
