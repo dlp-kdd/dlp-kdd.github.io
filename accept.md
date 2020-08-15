@@ -6,8 +6,6 @@
 
 **[FLEN: Leveraging Field for Scalable CTR Prediction](assets/pdf/a3-chen.pdf)**	Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin and Dugang Liu
 
-**[Deep Artificial Intelligence for Fantasy Football Multimodal Media Understanding](assets/pdf/a4-baughman.pdf)**	Aaron Baughman, Sai Gudimetla, Micah Forester, Gray Cannon, Daniel Bohm, Stephen Hammer, Chris Jason and Jeff Powell
-
 **[Ranking with Deep Multi-Objective Learning](assets/pdf/a5-cao.pdf)**	Xuezhi Cao, Sheng Zhu, Biao Tang, Rui Xie, Fuzheng Zhang and Zhongyuan Wang
 
 **[Categorization of Social Actors in Social Network Analysis (SNA) using Representation Learning via Knowledge-Graph Embeddings and Convolution Operations (RLVECO)](assets/pdf/a6-molokwu.pdf)**	Bonaventure Molokwu, Shaon Bhatta Shuvo and Ziad Kobti
