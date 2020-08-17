@@ -7,7 +7,7 @@ Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2
 **Time** | **Event**|	**Title**
 08:00-08:45 |**Keynote #1**	|**[Ji Liu](http://jiliu-ml.org/) (Kwai Inc.)** <br> *Hammer! A uniform model compression and NAS framework*
 08:45-08:55	||**Opening intro & Best paper announcement**
-08:55-09:10	|Oral talk #1	|Learning-To-Rank with Context-Aware Position Debiasing
+08:55-09:10	|Oral talk #1	|[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)
 09:10-09:25	|Oral talk #2	|[DCAF: A Dynamic Computation Allocation Framework for Online Serving System](assets/pdf/a12-jiang.pdf)
 09:25-09:40	|Oral talk #3	|[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)
 09:40-10:10	||Coffee break & Poster session
