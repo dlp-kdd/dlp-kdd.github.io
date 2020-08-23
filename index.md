@@ -4,7 +4,9 @@ Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2
 
 ## Virtual Conference
 Conference Zoom Link: Coming soon
+
 Live Streaming (Youtube): Coming soon
+
 Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xeknow.com/st/7A4yoARGO)
 
 ## Tentative Schedule
