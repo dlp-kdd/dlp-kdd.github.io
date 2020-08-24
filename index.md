@@ -1,11 +1,13 @@
 <br>
 
-Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
+
 
 ## Virtual Conference
+**Aug 24th 8am-12pm PDT**
+
 Conference Zoom Link: Coming soon
 
-Live Streaming (Youtube): Coming soon
+Live Streaming (Youtube): Click [here](https://youtu.be/dbtCm0Tp2nM)
 
 Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xeknow.com/st/7A4yoARGO)
 
@@ -28,6 +30,8 @@ Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xekn
 <br>
 
 **All the <b style="color:red">accepted papers </b> can be found [here](/accept.html)**
+
+Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
 
 
 ## Introduction
