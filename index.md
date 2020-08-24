@@ -5,9 +5,9 @@
 ## Virtual Conference
 **Aug 24th 8am-12pm PDT**
 
-Conference Zoom Link: Coming soon
+Conference Zoom Link: Click [here](https://zoom.us/j/92993353724?pwd=bHJTd3V3cm0zempiRkVvcmtlS0dHUT09)
 
-Live Streaming (Youtube): Click [here](https://youtu.be/dbtCm0Tp2nM)
+Live Streaming (Youtube): Click [here](https://youtu.be/aaCmaoxcR5A)
 
 Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xeknow.com/st/7A4yoARGO)
 
