@@ -20,9 +20,9 @@
 
 **[Training Deep Learning Recommendation Model with Quantized Collective Communications](assets/pdf/a11-yang.pdf)**	Jie Yang, Jongsoo Park, Srinivas Sridharan and Ping Tak Peter Tang
 
-**[DCAF: A Dynamic Computation Allocation Framework for Online Serving System](assets/pdf/a12-jiang.pdf)**	Biye Jiang, Pengye Zhang, Rihan Chen, Binding Dai, Xinchen Luo, Yin Yang, Guan Wang, Guorui Zhou, Xiaoqiang Zhu and Kun Gai
+<b style="color:red">(Best Paper Runner-Up) </b> **[DCAF: A Dynamic Computation Allocation Framework for Online Serving System](assets/pdf/a12-jiang.pdf)**	Biye Jiang, Pengye Zhang, Rihan Chen, Binding Dai, Xinchen Luo, Yin Yang, Guan Wang, Guorui Zhou, Xiaoqiang Zhu and Kun Gai
 
-**[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)**	Zhe Wang, Liqin Zhao, Biye Jiang, Guorui Zhou, Xiaoqiang Zhu and Kun Gai
+<b style="color:red">(Best Paper Award) </b> **[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)**	Zhe Wang, Liqin Zhao, Biye Jiang, Guorui Zhou, Xiaoqiang Zhu and Kun Gai
 
 **[Correct Normalization Matters: Understanding the Effect of Normalization On Deep Neural Network Models For Click-Through Rate Prediction](assets/pdf/a14-wang.pdf)**	Zhiqiang Wang, Qingyun She, Pengtao Zhang and Junlin Zhang
 
@@ -33,7 +33,7 @@
 
 **[Automated Model Selection for Time-Series Anomaly Detection](assets/pdf/a17-ying.pdf)**	Yuanxiang Ying, Juanyong Duan, Chunlei Wang, Yujing Wang, Congrui Huang and Bixiong Xu
 
-**[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)**	Keyi Xiao, Xuezhi Cao, Peihao Huang, Sheng Chen, Xiang Zhou, Yunsen Xian
+<b style="color:red">(Best Paper Runner-Up) </b> **[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)**	Keyi Xiao, Xuezhi Cao, Peihao Huang, Sheng Chen, Xiang Zhou, Yunsen Xian
 
 
 **[PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks](assets/pdf/a19-chin.pdf)**	Ting-Wu Chin, Ari Morcos and Diana Marculescu

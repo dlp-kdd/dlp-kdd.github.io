@@ -16,9 +16,9 @@ Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xekn
 **Time** | **Event**|	**Title**
 08:00-08:45 |**Keynote #1**	|**[Ji Liu](http://jiliu-ml.org/) (Kwai Inc.)** <br> *Hammer! A uniform model compression and NAS framework*
 08:45-08:55	||**Opening intro & Best paper announcement**
-08:55-09:10	|Oral talk #1	|[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)
-09:10-09:25	|Oral talk #2	|[DCAF: A Dynamic Computation Allocation Framework for Online Serving System](assets/pdf/a12-jiang.pdf)
-09:25-09:40	|Oral talk #3	|[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)
+08:55-09:10	|Oral talk #1	|<b style="color:red">(Best Paper Runner-Up) </b>[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)
+09:10-09:25	|Oral talk #2	|<b style="color:red">(Best Paper Runner-Up) </b>[DCAF: A Dynamic Computation Allocation Framework for <br> Online Serving System](assets/pdf/a12-jiang.pdf)
+09:25-09:40	|Oral talk #3	|<b style="color:red">(Best Paper Award) </b>[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)
 09:40-10:10	||Coffee break & Poster session
 10:10-10:55	|**Keynote #2**	|**[Jingbo Shang](https://shangjingbo1226.github.io/) (University of California, San Diego)** <br> *Named Entity Recognition from a Data-Driven Perspective*
 10:55-11:10	|Oral talk #4	|[Automated Model Selection for Time-Series Anomaly Detection](assets/pdf/a17-ying.pdf)
