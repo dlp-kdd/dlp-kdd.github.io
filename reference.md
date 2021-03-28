@@ -1,6 +1,10 @@
 ## Reference
 Here we provide a list of relevant workshop and papers.
 
+Website for dlp-kdd2020 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2020)**
+
+Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
+
 ### Other similar workshops:
 - [1]. [First International Workshop on Deep Matching in Practical Applications](https://wsdm2019-dapa.github.io/)
 - [2]. [2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/)

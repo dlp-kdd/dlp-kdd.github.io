@@ -22,18 +22,22 @@ a.buttons2 { -webkit-font-smoothing: antialiased;   font-weight: normal; text-sh
 
 
 header { 
-  background: url(../img/banner.jpg) 0 0 no-repeat; 
+  background: url(../images/header-bg.jpg) 0 0 repeat-x; 
   background-size: auto;
 }
 
-.hi { height: 350px; padding-left: 10px}
+.hi { height: 180px; padding-left: 10px}
 
 header img {     
     position: absolute; top: -30px; right: -220px;
 }
 
 .mobile_show{
-    display:none
+    display:block
+}
+
+.button2{
+  display:none
 }
 
 .mobile_no_show{

@@ -1,37 +1,5 @@
-<br>
 
-
-
-## Virtual Conference
-**Aug 24th 8am-12pm PDT**
-
-Conference Zoom Link: Click [here](https://zoom.us/j/92993353724?pwd=bHJTd3V3cm0zempiRkVvcmtlS0dHUT09)
-
-Live Streaming (Youtube): Click [here](https://youtu.be/aaCmaoxcR5A)
-
-Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xeknow.com/st/7A4yoARGO)
-
-## Tentative Schedule
-
-**Time** | **Event**|	**Title**
-08:00-08:45 |**Keynote #1**	|**[Ji Liu](http://jiliu-ml.org/) (Kwai Inc.)** <br> *Hammer! A uniform model compression and NAS framework*
-08:45-08:55	||**Opening intro & Best paper announcement**
-08:55-09:10	|Oral talk #1	|<b style="color:red">(Best Paper Runner-Up) </b>[Learning-To-Rank with Context-Aware Position Debiasing](assets/pdf/a18-xiao.pdf)
-09:10-09:25	|Oral talk #2	|<b style="color:red">(Best Paper Runner-Up) </b>[DCAF: A Dynamic Computation Allocation Framework for <br> Online Serving System](assets/pdf/a12-jiang.pdf)
-09:25-09:40	|Oral talk #3	|<b style="color:red">(Best Paper Award) </b>[COLD: Towards the Next Generation of Pre-Ranking System](assets/pdf/a13-wang.pdf)
-09:40-10:10	||Coffee break & Poster session
-10:10-10:55	|**Keynote #2**	|**[Jingbo Shang](https://shangjingbo1226.github.io/) (University of California, San Diego)** <br> *Named Entity Recognition from a Data-Driven Perspective*
-10:55-11:10	|Oral talk #4	|[Automated Model Selection for Time-Series Anomaly Detection](assets/pdf/a17-ying.pdf)
-11:10-11:25	|Oral talk #5	|[Correct Normalization Matters: Understanding the Effect of Normalization On Deep Neural Network Models For Click-Through Rate Prediction](assets/pdf/a14-wang.pdf)
-11:25-11:40	|Oral talk #6	|[Selling Products by Machine: a User-Sensitive Adversarial Training method for Short Title Generation in Mobile E-Commerce](assets/pdf/a1-wang.pdf)
-11:40-11:55	|Oral talk #7	|[PinText 2: Attentive Bag of Annotations Embedding](assets/pdf/a15-zhuang.pdf)
-11:55-12:00	||Ending
-
-<br>
-
-**All the <b style="color:red">accepted papers </b> can be found [here](/accept.html)**
-
-Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
+Website for dlp-kdd2020 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2020)**
 
 
 ## Introduction
@@ -41,18 +9,10 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 
 ## Important Dates
 
-- Submission deadline: ~~May 20, 2020~~ ~~June 10, 2020~~  June 14, 2020 23:59 anywhere on earth (We extended the deadline due to current COVID-19 situation)
-- Acceptance notification: ~~June 15, 2020~~ July 12, 2020.
-- Workshop date: August 24, 2020 (San Diego Convention Center, San Diego, California USA)
+- Submission deadline: May 10, 2021 23:59 anywhere on earth
+- Acceptance notification: June 10, 2021.
+- Workshop date: August 10-14, 2021 (Virtual Conference)
 
-
-## Workshop Format and Schedule
-
-Half day. We would like to hold a half-day workshop in order to have enough new ground to cover invited academic and industry talks with a focus on many deep learning related areas. The tentative program schedule includes the following components:
-
-- Ten oral presentations from paper submissions for 15 minutes each
-- A poster session if there are lots of submissions for 45 minutes
-- Four invited talks with a mix of industry and academia for 1 hour each ! A panel discussion with 45 minutes
 
 ## Topics of Interest
 Topics include but are not limited to deep learning based network architecture design, large scale deep learning training framework, high-performance online inference engine or toolkits that help breaking the black box of deep learning models, such as
@@ -73,7 +33,7 @@ Topics include but are not limited to deep learning based network architecture d
 
 ## Call for papers
 
-Official call for papers page is on [https://easychair.org/cfp/dlp-kdd2020](https://easychair.org/cfp/dlp-kdd2020)
+Official call for papers page is coming soon
 
 Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
 
@@ -81,9 +41,9 @@ Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome
 
 Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-All submissions can be made through EasyChair using the following link: [https://easychair.org/conferences/?conf=dlpkdd2020](https://easychair.org/conferences/?conf=dlpkdd2020)
+All submissions can be made through EasyChair (links coming soon)
 
-For all the accepted paper, we provide the option that it **could be archived in ACM Digtal Library**. You may see the publication of last year at [https://dl.acm.org/doi/proceedings/10.1145/3326937](https://dl.acm.org/doi/proceedings/10.1145/3326937)
+For all the accepted paper, we provide the option that it **could be archived in ACM Digtal Library**. You may see the publication of our first workshop at [https://dl.acm.org/doi/proceedings/10.1145/3326937](https://dl.acm.org/doi/proceedings/10.1145/3326937)
 
 
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
@@ -125,20 +85,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Alibaba</div>
   </div>
 
-  <div class="photo">
-  <a href="https://www.cs.cmu.edu/~lxiong/">
-    <img src="assets/img/xl.jpg" class="shake shake-little">
-  </a><br>
-  <a href="https://www.cs.cmu.edu/~lxiong/">Liang Xiong</a>
-  <div>Facebook AI Applied Research</div>
-  </div>
-
-<div class="photo">
-  <img src="assets/img/zjl.jpg">
-  <div>Junlin Zhang</div>
-  <div>Tech Lead</div>
-  <div>Artificial Intelligence Laboratory, Sina Weibo</div>
-  </div>
 
   <div class="photo">
   <a href="http://wzhe.me/">
@@ -147,22 +93,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <a href="http://wzhe.me/">Zhe Wang</a>
   <div>Tech Lead</div>
   <div>Recommendation group, Roku</div>
-  </div>
-
-  <div class="photo">
-  <a href="http://www.zheng-wen.com/">
-    <img src="assets/img/wenz.jpg" class="shake shake-little">
-  </a><br>
-  <a href="http://www.zheng-wen.com/">Zheng Wen</a>
-  <div>Research Scientist</div>
-  <div>DeepMind</div>
-  </div>
-
-  <div class="photo">
-  <img src="assets/img/lhs.jpg">
-  <div>Haishan Liu</div>
-  <div>Director of Engineering</div>
-  <div>Tencent</div>
   </div>
 
 
@@ -184,14 +114,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>University of Utah</div>
   </div>
 
-  <div class="photo">
-  <a href="https://www.cs.utah.edu/~zhe/">
-    <img src="assets/img/sdz.jpg" class="shake shake-little">
-  </a><br>
-  <a href="https://www.cs.utah.edu/~zhe/">Shandian Zhe</a>
-  <div>Assistant Professor</div>
-  <div>University of Utah</div>
-  </div>
 
   <div class="photo">
   <a href="http://wnzhang.net">
@@ -202,12 +124,19 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Shanghai Jiao Tong University</div>
   </div>
 
+  <div class="photo">
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en">
+    <img src="assets/img/trm.jpeg" class="shake shake-little">
+  </a><br>
+  <a href="http://wnzhang.net">Ruiming Tang</a>
+  <div>Senior Researcher</div>
+  <div>Huawei Noah Ark Lab</div>
+  </div>
+
   <img src="assets/img/bg.png">  
 
 ## Program Committee
 Coming soon.
 
 ## Sponsor
-<a href="http://www.polixir.ai/">
-<img src="assets/img/nxxc_logo.png" width="400px"/>
-</a>
+Coming soon.
