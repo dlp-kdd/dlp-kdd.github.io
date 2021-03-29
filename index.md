@@ -41,7 +41,7 @@ Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome
 
 Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
 
-All submissions can be made through EasyChair (links coming soon)
+All submissions can be made through EasyChair using the following link: [https://easychair.org/conferences/?conf=dlpkdd2021](https://easychair.org/conferences/?conf=dlpkdd2021) 
 
 For all the accepted paper, we provide the option that it **could be archived in ACM Digtal Library**. You may see the publication of our first workshop at [https://dl.acm.org/doi/proceedings/10.1145/3326937](https://dl.acm.org/doi/proceedings/10.1145/3326937)
 
