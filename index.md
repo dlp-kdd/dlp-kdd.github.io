@@ -120,7 +120,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
     <img src="assets/img/zwn.png" class="shake shake-little">
   </a><br>
   <a href="http://wnzhang.net">Weinan Zhang</a>
-  <div>Assistant Professor</div>
+  <div>Associate Professor</div>
   <div>Shanghai Jiao Tong University</div>
   </div>
 
