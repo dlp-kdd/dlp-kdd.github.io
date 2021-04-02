@@ -33,7 +33,7 @@ Topics include but are not limited to deep learning based network architecture d
 
 ## Call for papers
 
-Official call for papers page is coming soon
+Official call for papers page is [https://easychair.org/cfp/dlpkdd2021](https://easychair.org/cfp/dlpkdd2021)
 
 Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
 
@@ -72,7 +72,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <img src="assets/img/zgr.jpeg" class="shake shake-little">
   </a><br>
 <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&hl=en">Guorui Zhou</a>
-  <div>Algorithm expert of advertising group</div>
+  <div>Senior Algorithm expert of advertising group</div>
   <div>Alibaba</div>
   </div>
   
