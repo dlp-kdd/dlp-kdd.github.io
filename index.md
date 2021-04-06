@@ -128,7 +128,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en">
     <img src="assets/img/trm.jpeg" class="shake shake-little">
   </a><br>
-  <a href="http://wnzhang.net">Ruiming Tang</a>
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en">Ruiming Tang</a>
   <div>Senior Researcher</div>
   <div>Huawei Noah Ark Lab</div>
   </div>
