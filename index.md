@@ -9,9 +9,9 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 
 ## Important Dates
 
-- Submission deadline: May 17, 2021 23:59 anywhere on earth
+- Submission deadline: May 20, 2021 23:59 anywhere on earth
 - Acceptance notification: June 10, 2021.
-- Workshop date: August 10-14, 2021 (Virtual Conference)
+- Workshop date: August 14-18, 2021 (Virtual Conference)
 
 
 ## Topics of Interest
