@@ -10,7 +10,7 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 ## Important Dates
 
 - Submission deadline: ~~May 20~~ May 28, 2021 23:59 anywhere on earth (Could be extended)
-- Acceptance notification: June 10, 2021.
+- Acceptance notification: ~~June 10~~ June 18 2021.
 - Workshop date: August 15, 2021 Singapore Time (Virtual Conference + Offline Meetup at Beijing, details coming soon) 
 
 
