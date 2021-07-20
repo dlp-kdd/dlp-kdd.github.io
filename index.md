@@ -1,4 +1,6 @@
 
+**All the <b style="color:red">accepted papers </b> can be found [here](accept.html)**
+
 Website for dlp-kdd2020 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2020)**
 
 
