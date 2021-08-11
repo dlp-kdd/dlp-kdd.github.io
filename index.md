@@ -170,5 +170,5 @@ Weijie Bian, Daqing Chang, Bo Chen, Zheng Gao, Huifeng Guo, Wei Guo, Lian Liu, Y
 
 ## Sponsor
 <a href="https://www.alimama.com/">
-  <img src="assets/img/alimama.png">
+  <img src="assets/img/alimama-tech.png">
 </a>
