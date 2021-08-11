@@ -1,6 +1,30 @@
 
 **All the <b style="color:red">accepted papers </b> can be found [here](accept.html)**
 
+
+## Schedule
+
+**Time** | **Event**|	**Title**
+09:00-09:30 |**Keynote #1**	|**[Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home) (Facebook)** <br> *[High-performance, Distributed Training of Large-scale Deep Learning Recommendation Models](https://arxiv.org/abs/2104.05158)*
+09:30-09:35	||**Opening intro & Best paper announcement**
+09:35-09:47	|Oral talk #1	|[Practice on Pruning CTR Models for Real-world Systems](assets/pdf/DLP-KDD_2021_paper_9.pdf)
+09:48-10:00	|Oral talk #2	|[Truncation-Free Matching System for Display Advertising at Alibaba](assets/pdf/DLP-KDD_2021_paper_5.pdf)
+10:00-10:15	||Coffee break & Online spotlight video
+10:15-10:45	|**Keynote #2**	|**[Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) (Tsinghua University)** <br> 
+10:45-10:57	|Oral talk #3	|[TabGNN: Multiplex Graph Neural Network for Tabular Data Prediction](assets/pdf/DLP-KDD_2021_paper_16.pdf)
+10:58-11:10	|Oral talk #4	|[A Dual Augmented Two-tower Model for Online Large-scale Recommendation](assets/pdf/DLP-KDD_2021_paper_4.pdf)
+11:10-11:40	|**Keynote #3**	|**[Ruiming Tang & Bo Chen](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en) (Huawei Noah's Ark Lab)** <br> *AutoML for Recommender systems*
+11:40-11:52	|Oral talk #5	|[MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask](assets/pdf/DLP-KDD_2021_paper_3.pdf)
+11:53-12:05	|Oral talk #6	|[Enhancing Explicit and Implicit Feature Interactions via Information Sharing for <br> Parallel Deep CTR Models](assets/pdf/DLP-KDD_2021_paper_12.pdf)
+12:05-12:10	||Ending
+
+<br>
+
+[<b style="color:red">New!</b>] We're hosting another event about indusrial applications in Search engine, Recommendation, Advertisement in the afternoon. This event is in CHINESE and will be broadcasted via live stream. **Details see [here](https://mp.weixin.qq.com/s/qVV_8eZztod2UsyTKjvX-A).**
+
+[<b style="color:red">New!</b>]Due to covid19 delta-variant, the planned offline meetup at Beijing has to be canncelled. We hope to see you in person next year!
+
+<br>
 Website for dlp-kdd2020 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2020)**
 
 
@@ -13,7 +37,7 @@ In the increasingly digitalized world, it is of utmost importance for various ap
 
 - Submission deadline: ~~May 20~~ May 28, 2021 23:59 anywhere on earth (Could be extended)
 - Acceptance notification: ~~June 10~~ June 18 2021.
-- Workshop date: August 15, 2021 Singapore Time (Virtual Conference + Offline Meetup at Beijing, details coming soon) 
+- Workshop date: August 15, 2021 Singapore Time (Virtual Conference + ~~Offline Meetup at Beijing~~) 
 
 
 ## Topics of Interest
@@ -138,7 +162,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <img src="assets/img/bg.png">  
 
 ## Program Committee
-Coming soon.
+Weijie Bian, Daqing Chang, Bo Chen, Zheng Gao, Huifeng Guo, Wei Guo, Lian Liu, Yin Lou, Jiaxin Mao, Dheevatsa Mudigere, Junwei Pan, Jiarui Qin, Zhen Qin, Xiangrong Sheng, Yu Sun, Anh Tran, Ying Wen, Xuyang Wu, Zhichao Xu, Yachen Yan, Junlin Zhang, Zhilin Zhang, Huan Zhao, Hanning Zhou, Chenxu Zhu, Jinfeng Zhuang, Jingwei Zhuo
 
 ## Sponsor
-Coming soon.
+<a href="https://www.alimama.com/">
+  <img src="assets/img/alimama.png">
+</a>
