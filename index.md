@@ -1,5 +1,9 @@
 
-**All the <b style="color:red">accepted papers </b> can be found [here](accept.html)**
+**All the <b style="color:red">accepted papers </b> can be found [<b style="color:red"> here </b>](accept.html)**
+
+[<b style="color:red">New!</b>]**The whole event will be broadcast via live stream, links coming soon.**
+
+[<b style="color:red">New!</b>]**For KDD conference participants, you can find our workshop [<b style="color:red"> here </b>](https://virtual.2021.kdd.org/workshop_WS-9.html) and access our workshop via the Zoom link. You can also acces the W9 channel@rocket.chat to start conversations.**
 
 
 ## Schedule
