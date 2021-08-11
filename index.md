@@ -29,7 +29,7 @@
 [<b style="color:red">New!</b>]Due to covid19 delta-variant, the planned offline meetup at Beijing has to be canncelled. We hope to see you in person next year!
 
 <br>
-Website for dlp-kdd2020 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2020)**
+Website for dlp-kdd2020 can be found **[<b style="color:red"> here </b>](https://dlp-kdd.github.io/dlp-kdd2020)**
 
 
 ## Introduction
