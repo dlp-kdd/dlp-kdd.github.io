@@ -1,7 +1,7 @@
 
 **All the <b style="color:red">accepted papers </b> can be found [<b style="color:red"> here </b>](accept.html)**
 
-[<b style="color:red">New!</b>]**The whole event will be broadcast via live stream, links coming soon.**
+[<b style="color:red">New!</b>]**The whole event will be broadcast via live stream, use this [<b style="color:red"> link </b>](https://yeu.h5.xeknow.com/s/FVtew) (WeChat account needed)**
 
 [<b style="color:red">New!</b>]**For KDD conference participants, you can find our workshop [<b style="color:red"> here </b>](https://virtual.2021.kdd.org/workshop_WS-9.html) and access our workshop via the Zoom link. You can also acces the W9 channel@rocket.chat to start conversations.**
 
@@ -24,7 +24,7 @@
 
 <br>
 
-[<b style="color:red">New!</b>] We're hosting another event about indusrial applications in Search engine, Recommendation, Advertisement in the afternoon. This event is in CHINESE and will be broadcasted via live stream. **Details see [here](https://mp.weixin.qq.com/s/qVV_8eZztod2UsyTKjvX-A).**
+[<b style="color:red">New!</b>] We're hosting another event about indusrial applications in Search engine, Recommendation, Advertisement in the afternoon. This event is in CHINESE and will be broadcasted via **[<b style="color:red"> live stream </b>](https://yeu.h5.xeknow.com/s/4yPZQ6)**. Details see **[<b style="color:red"> here </b>](https://mp.weixin.qq.com/s/qVV_8eZztod2UsyTKjvX-A)**.
 
 [<b style="color:red">New!</b>]Due to covid19 delta-variant, the planned offline meetup at Beijing has to be canncelled. We hope to see you in person next year!
 
