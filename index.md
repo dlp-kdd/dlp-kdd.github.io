@@ -24,7 +24,7 @@
 
 <br>
 
-[<b style="color:red">New!</b>] We're hosting another event about indusrial applications in Search engine, Recommendation, Advertisement in the afternoon. This event is in CHINESE and will be broadcasted via **[<b style="color:red"> live stream </b>](https://yeu.h5.xeknow.com/s/4yPZQ6)**. Details see **[<b style="color:red"> here </b>](https://mp.weixin.qq.com/s/qVV_8eZztod2UsyTKjvX-A)**.
+[<b style="color:red">New!</b>] We're hosting ANOTHER event about indusrial applications in Search engine, Recommendation, Advertisement in the afternoon. That event is in CHINESE and will be broadcasted via **[<b style="color:red"> live stream </b>](https://yeu.h5.xeknow.com/s/4yPZQ6)**. Details see **[<b style="color:red"> here </b>](https://mp.weixin.qq.com/s/qVV_8eZztod2UsyTKjvX-A)**.
 
 [<b style="color:red">New!</b>]Due to covid19 delta-variant, the planned offline meetup at Beijing has to be canncelled. We hope to see you in person next year!
 
