@@ -1,6 +1,8 @@
 
 **All the <b style="color:red">accepted papers </b> can be found [<b style="color:red"> here </b>](accept.html)**
 
+[<b style="color:red">Important!</b>]**We need your feedback! Please use this [<b style="color:red"> link </b>](https://forms.gle/P9YZV84zsGK4EYut6) to fill in your comments!**
+
 [<b style="color:red">New!</b>]**The whole event will be broadcast via live stream, use this [<b style="color:red"> link </b>](https://yeu.h5.xeknow.com/s/FVtew) (WeChat account needed)**
 
 [<b style="color:red">New!</b>]**For KDD conference participants, you can find our workshop [<b style="color:red"> here </b>](https://virtual.2021.kdd.org/workshop_WS-9.html) and access our workshop via the Zoom link. You can also acces the W9 channel@rocket.chat to start conversations.**
