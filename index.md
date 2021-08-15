@@ -14,7 +14,7 @@
 09:35-09:47	|Oral talk #1	|[Practice on Pruning CTR Models for Real-world Systems](assets/pdf/DLP-KDD_2021_paper_9.pdf)
 09:48-10:00	|Oral talk #2	|[Truncation-Free Matching System for Display Advertising at Alibaba](assets/pdf/DLP-KDD_2021_paper_5.pdf)
 10:00-10:15	||Coffee break & Online spotlight video
-10:15-10:45	|**Keynote #2**	|**[Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) (Tsinghua University)** <br> 
+10:15-10:45	|**Keynote #2**	|**[Qingyao Ai](http://ir.aiqingyao.org/home) (University of Utah)** <br>  Unbiased Learning to Rank. Online or Offline?
 10:45-10:57	|Oral talk #3	|[TabGNN: Multiplex Graph Neural Network for Tabular Data Prediction](assets/pdf/DLP-KDD_2021_paper_16.pdf)
 10:58-11:10	|Oral talk #4	|[A Dual Augmented Two-tower Model for Online Large-scale Recommendation](assets/pdf/DLP-KDD_2021_paper_4.pdf)
 11:10-11:40	|**Keynote #3**	|**[Ruiming Tang & Bo Chen](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=en) (Huawei Noah's Ark Lab)** <br> *AutoML for Recommender systems*
